@@ -1,0 +1,1 @@
+module.exports = app => app.locals.title = 'Nodemailer App: envía emails hasta que Gmail te bloquee!'

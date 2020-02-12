@@ -1,0 +1,16 @@
+body {
+  font-weight: 100;
+  font: 14px sans-serif;
+  padding: 40px 0
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1, h2, h3 {
+  margin-bottom: 50px;
+  font-weight: 100;
+}
+
+/*# sourceMappingURL=style.css.map */
